@@ -3,6 +3,7 @@ rusty-sevenseg
 ## Rust's ergonomics focus on safety, readability, and efficiency, minimizing common programming errors while maintaining high performance
 Rust project for the _Arduino Uno_.
 ![Pure Ergonomics](assets/setup.png)
+![Pure Ergonomics](assets/image.png)
 
 ## Build Instructions
 1. Install prerequisites as described in the [`avr-hal` README] (`avr-gcc`, `avr-libc`, `avrdude`, [`ravedude`]).
