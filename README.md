@@ -2,7 +2,7 @@ rusty-sevenseg
 ================
 
 Rust project for the _Arduino Uno_.
-![Pure Ergonomics]('assets/setup.png')
+![Pure Ergonomics](assets/setup.png)
 
 ## Build Instructions
 1. Install prerequisites as described in the [`avr-hal` README] (`avr-gcc`, `avr-libc`, `avrdude`, [`ravedude`]).
