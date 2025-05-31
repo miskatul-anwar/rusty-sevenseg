@@ -1,6 +1,6 @@
 rusty-sevenseg
 ================
-
+## Rust's ergonomics focus on safety, readability, and efficiency, minimizing common programming errors while maintaining high performance
 Rust project for the _Arduino Uno_.
 ![Pure Ergonomics](assets/setup.png)
 
