@@ -2,6 +2,7 @@ rusty-sevenseg
 ================
 
 Rust project for the _Arduino Uno_.
+![Pure Ergonomics]('assets/setup.png')
 
 ## Build Instructions
 1. Install prerequisites as described in the [`avr-hal` README] (`avr-gcc`, `avr-libc`, `avrdude`, [`ravedude`]).
@@ -17,16 +18,6 @@ Rust project for the _Arduino Uno_.
 
 [`avr-hal` README]: https://github.com/Rahix/avr-hal#readme
 [`ravedude`]: https://crates.io/crates/ravedude
-
-## License
-Licensed under either of
-
- - Apache License, Version 2.0
-   ([LICENSE-APACHE](LICENSE-APACHE) or <http://www.apache.org/licenses/LICENSE-2.0>)
- - MIT license
-   ([LICENSE-MIT](LICENSE-MIT) or <http://opensource.org/licenses/MIT>)
-
-at your option.
 
 ## Contribution
 Unless you explicitly state otherwise, any contribution intentionally submitted
